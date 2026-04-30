@@ -70,13 +70,14 @@ Each class and file includes additional documentation describing its role within
 - Project coordination and technical direction
 - Frontend for GameWorld, Player, MenuUI, Shop, Crop, Plot
 - Backend for Player camera, movement, and interaction logic
+- Responsible for button sound effects, planting and harvesting sound efects, shop sound effects, and in-game background music
 
 ### Mackenzie Mann
-- Backend development for Crop and Plot classes
-- Responsible for all game audio and music
+- Early backend concept development for Crop and Plot classes
+- Responsible for title screen and play button audio
 
 ### Halden Kerzner 
-- Backend development for Inventory and Shop classes 
+- Early backend concept development for Inventory and Shop classes 
 
 ---
 
